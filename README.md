@@ -12,3 +12,10 @@ The H-1B1 visa is a variant of the more popular H-1B visa that allows employers 
 for H-1B1 applicants.
 * Continuing from the previous point, H-1B1 visas can be applied for at any point
 of the year, without waiting for a lottery, and without the uncertainty of a lottery.
+
+## Tech stack
+The MERN stack will be used, with TypeScript across the front and backends. Python notebooks may be used for initial data analysis.
+* MongoDB — document database
+* Express(.js) — Node.js web framework
+* React(.js) — a client-side JavaScript framework
+* Node(.js) — JavaScript web server
